@@ -41,6 +41,7 @@ The dataset (Instagram_Analytics.csv) includes key Instagram post metrics:
 Engagement Rate Formula
 engagement_rate = (likes + comments) / impressions
 	​
+
 Key Visual Insights
 Engagement Rate by Media Type
 Which types of content drive the highest engagement?
