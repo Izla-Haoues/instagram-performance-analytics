@@ -70,7 +70,7 @@ How to Run the Project
 
 1. Clone the repository
 
-git clone https://github.com/<your-username>/instagram-performance-analytics.git
+```git clone https://github.com/<your-username>/instagram-performance-analytics.git```
 
 2. Open the notebook in:
 
@@ -80,7 +80,7 @@ git clone https://github.com/<your-username>/instagram-performance-analytics.git
 
 3. Install dependencies:
 
-pip install pandas numpy matplotlib seaborn
+```pip install pandas numpy matplotlib seaborn```
 
 4. Run all cells from top to bottom.
 
